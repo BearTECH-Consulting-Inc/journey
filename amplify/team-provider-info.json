@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-job-assist-dev-123555-authRole",
+      "UnauthRoleArn": "arn:aws:iam::390148573654:role/amplify-job-assist-dev-123555-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::390148573654:role/amplify-job-assist-dev-123555-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-job-assist-dev-123555-deployment",
+      "UnauthRoleName": "amplify-job-assist-dev-123555-unauthRole",
+      "StackName": "amplify-job-assist-dev-123555",
+      "StackId": "arn:aws:cloudformation:us-east-2:390148573654:stack/amplify-job-assist-dev-123555/016e0490-1643-11ec-94f1-06c7d3e8f42c",
+      "AmplifyAppId": "d1nw3xehusmiqp"
+    },
+    "categories": {
+      "auth": {
+        "jobassist8b1be0cb": {}
+      }
+    }
+  }
+}

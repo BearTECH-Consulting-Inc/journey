@@ -63,7 +63,7 @@ function App() {
     <Listings />
   ) : (
     <>
-      <Title>Journey</Title>
+      <Title>PHC Datalake MVP Demo</Title>
       <Authenticator
         onStateChange={authState => {
           if (authState === "signedIn") {
